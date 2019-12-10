@@ -1,0 +1,4 @@
+baseURL = "https://freeholdwireless.com/"
+languageCode = "en-us"
+title = "Freehold Wireless"
+theme = "ananke"
