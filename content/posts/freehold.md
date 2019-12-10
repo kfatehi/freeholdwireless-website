@@ -1,7 +1,7 @@
 ---
 title: "Mission Statement"
 date: 2019-12-09T16:19:13-08:00
-draft: true
+draft: false
 ---
 
 Freehold Wireless is a fledgling effort to respond to the regional monopolies of the telecoms positively and productively. For far too long, we have allowed the telecoms to rule our internetworked lives. If you pay the bill each month, I don't have to explain to you that this is not hyperbole.
